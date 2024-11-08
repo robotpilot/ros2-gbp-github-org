@@ -169,6 +169,7 @@ locals {
     local.sick_safetyscanners_team,
     local.sick_safevisionary_team,
     local.sick_scan_xd_team,
+    local.simple_grasping_team,
     local.simple_launch_team,
     local.simple_robotics_team,
     local.skylove_team,
