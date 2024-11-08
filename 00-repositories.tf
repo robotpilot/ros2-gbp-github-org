@@ -211,6 +211,7 @@ locals {
     local.vision_repositories,
     local.visp_repositories,
     local.vrpn_repositories,
+    local.wasp_research_group_repositories,
     local.wep21_repositories,
     local.xacro_repositories,
     local.yukkysaito_repositories,
