@@ -1,6 +1,6 @@
 locals {
   sick_safetyscanners_team = [
-    "puck-fzi",
+    "lenpuc",
   ]
   sick_safetyscanners_repositories = [
     "sick_safetyscanners2-release",
