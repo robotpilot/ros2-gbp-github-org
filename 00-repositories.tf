@@ -28,6 +28,7 @@ locals {
     local.caret_repositories,
     local.cascade_lifecycle_repositories,
     local.cerberus_repositories,
+    local.cognipilot_repositories,
     local.connextdds_repositories,
     local.control_box_rst_repositories,
     local.control_repositories,

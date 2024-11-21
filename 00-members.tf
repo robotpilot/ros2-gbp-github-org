@@ -28,6 +28,7 @@ locals {
     local.caret_team,
     local.cascade_lifecycle_team,
     local.cerberus_team,
+    local.cognipilot_team,
     local.connextdds_team,
     local.control_box_rst_team,
     local.control_team,
