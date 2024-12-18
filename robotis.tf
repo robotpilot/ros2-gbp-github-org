@@ -4,7 +4,7 @@ locals {
     "robotpilot",
   ]
   robotis_repositories = [
-    "dynamixel_hardware_interface-release",
+    "dynamixel_hw_interface-release",
     "dynamixel_interfaces-release",
     "dynamixel_sdk-release",
     "dynamixel_workbench-release",
